@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectXAid", "DirectXAid.csproj", "{042ED792-D5C2-4638-887D-F6DDF9E35BED}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{042ED792-D5C2-4638-887D-F6DDF9E35BED}.Debug.ActiveCfg = Debug|.NET
+		{042ED792-D5C2-4638-887D-F6DDF9E35BED}.Debug.Build.0 = Debug|.NET
+		{042ED792-D5C2-4638-887D-F6DDF9E35BED}.Release.ActiveCfg = Release|.NET
+		{042ED792-D5C2-4638-887D-F6DDF9E35BED}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
