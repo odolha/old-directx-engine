@@ -13,3 +13,5 @@ Tried to deal with:
 - various utilities
 
 The demo (executable) is a a simple surface walker with surfaces based on height maps.
+
+![Screenshot](/screenshot.png)
